@@ -1,0 +1,463 @@
+name,category,value
+Braeutigam,Neurobiology,1
+Braeutigam,Integrative Physiology,100
+Braeutigam,Cell Biology,100
+Braeutigam,Molecular Biology,100
+Braeutigam,Animal Behaviour,1
+Braeutigam,Plant Biology,100
+Braeutigam,Epigenetics,100
+Braeutigam,Paleontology,1
+Braeutigam,Evolutionary Biology,1
+Braeutigam,Ecology,1
+Braeutigam,Biological Responses to Climate Change,100
+Braeutigam,Stress and Disease Biology,100
+Braeutigam,Molecular Visualization,1
+Braeutigam,Visual Representation of Biology/Science,1
+Currie,Neurobiology,1
+Currie,Integrative Physiology,1
+Currie,Cell Biology,100
+Currie,Molecular Biology,100
+Currie,Animal Behaviour,1
+Currie,Plant Biology,1
+Currie,Epigenetics,100
+Currie,Paleontology,1
+Currie,Evolutionary Biology,1
+Currie,Ecology,1
+Currie,Biological Responses to Climate Change,1
+Currie,Stress and Disease Biology,100
+Currie,Molecular Visualization,100
+Currie,Visual Representation of Biology/Science,1
+Rhee,Neurobiology,100
+Rhee,Integrative Physiology,1
+Rhee,Cell Biology,100
+Rhee,Molecular Biology,100
+Rhee,Animal Behaviour,100
+Rhee,Plant Biology,1
+Rhee,Epigenetics,100
+Rhee,Paleontology,1
+Rhee,Evolutionary Biology,1
+Rhee,Ecology,1
+Rhee,Biological Responses to Climate Change,1
+Rhee,Stress and Disease Biology,100
+Rhee,Molecular Visualization,1
+Rhee,Visual Representation of Biology/Science,1
+Walters,Neurobiology,100
+Walters,Integrative Physiology,1
+Walters,Cell Biology,100
+Walters,Molecular Biology,100
+Walters,Animal Behaviour,100
+Walters,Plant Biology,1
+Walters,Epigenetics,100
+Walters,Paleontology,1
+Walters,Evolutionary Biology,1
+Walters,Ecology,1
+Walters,Biological Responses to Climate Change,1
+Walters,Stress and Disease Biology,1
+Walters,Molecular Visualization,1
+Walters,Visual Representation of Biology/Science,1
+Phillips,Neurobiology,1
+Phillips,Integrative Physiology,100
+Phillips,Cell Biology,100
+Phillips,Molecular Biology,100
+Phillips,Animal Behaviour,1
+Phillips,Plant Biology,100
+Phillips,Epigenetics,1
+Phillips,Paleontology,1
+Phillips,Evolutionary Biology,1
+Phillips,Ecology,1
+Phillips,Biological Responses to Climate Change,1
+Phillips,Stress and Disease Biology,1
+Phillips,Molecular Visualization,1
+Phillips,Visual Representation of Biology/Science,1
+Ensminger,Neurobiology,1
+Ensminger,Integrative Physiology,1
+Ensminger,Cell Biology,1
+Ensminger,Molecular Biology,100
+Ensminger,Animal Behaviour,1
+Ensminger,Plant Biology,100
+Ensminger,Epigenetics,1
+Ensminger,Paleontology,1
+Ensminger,Evolutionary Biology,1
+Ensminger,Ecology,100
+Ensminger,Biological Responses to Climate Change,100
+Ensminger,Stress and Disease Biology,100
+Ensminger,Molecular Visualization,1
+Ensminger,Visual Representation of Biology/Science,1
+Dillon,Neurobiology,1
+Dillon,Integrative Physiology,1
+Dillon,Cell Biology,1
+Dillon,Molecular Biology,100
+Dillon,Animal Behaviour,1
+Dillon,Plant Biology,100
+Dillon,Epigenetics,1
+Dillon,Paleontology,1
+Dillon,Evolutionary Biology,100
+Dillon,Ecology,1
+Dillon,Biological Responses to Climate Change,1
+Dillon,Stress and Disease Biology,100
+Dillon,Molecular Visualization,1
+Dillon,Visual Representation of Biology/Science,1
+Kotanen,Neurobiology,1
+Kotanen,Integrative Physiology,1
+Kotanen,Cell Biology,1
+Kotanen,Molecular Biology,1
+Kotanen,Animal Behaviour,1
+Kotanen,Plant Biology,100
+Kotanen,Epigenetics,1
+Kotanen,Paleontology,1
+Kotanen,Evolutionary Biology,1
+Kotanen,Ecology,100
+Kotanen,Biological Responses to Climate Change,100
+Kotanen,Stress and Disease Biology,1
+Kotanen,Molecular Visualization,1
+Kotanen,Visual Representation of Biology/Science,1
+Stefanovic,Neurobiology,1
+Stefanovic,Integrative Physiology,1
+Stefanovic,Cell Biology,1
+Stefanovic,Molecular Biology,1
+Stefanovic,Animal Behaviour,1
+Stefanovic,Plant Biology,100
+Stefanovic,Epigenetics,1
+Stefanovic,Paleontology,1
+Stefanovic,Evolutionary Biology,100
+Stefanovic,Ecology,1
+Stefanovic,Biological Responses to Climate Change,1
+Stefanovic,Stress and Disease Biology,1
+Stefanovic,Molecular Visualization,1
+Stefanovic,Visual Representation of Biology/Science,1
+Cheng,Neurobiology,100
+Cheng,Integrative Physiology,1
+Cheng,Cell Biology,100
+Cheng,Molecular Biology,100
+Cheng,Animal Behaviour,100
+Cheng,Plant Biology,1
+Cheng,Epigenetics,1
+Cheng,Paleontology,1
+Cheng,Evolutionary Biology,1
+Cheng,Ecology,1
+Cheng,Biological Responses to Climate Change,1
+Cheng,Stress and Disease Biology,100
+Cheng,Molecular Visualization,1
+Cheng,Visual Representation of Biology/Science,1
+Erclik,Neurobiology,100
+Erclik,Integrative Physiology,1
+Erclik,Cell Biology,100
+Erclik,Molecular Biology,100
+Erclik,Animal Behaviour,1
+Erclik,Plant Biology,1
+Erclik,Epigenetics,1
+Erclik,Paleontology,1
+Erclik,Evolutionary Biology,1
+Erclik,Ecology,1
+Erclik,Biological Responses to Climate Change,1
+Erclik,Stress and Disease Biology,1
+Erclik,Molecular Visualization,1
+Erclik,Visual Representation of Biology/Science,1
+Espie,Neurobiology,1
+Espie,Integrative Physiology,100
+Espie,Cell Biology,100
+Espie,Molecular Biology,100
+Espie,Animal Behaviour,1
+Espie,Plant Biology,1
+Espie,Epigenetics,1
+Espie,Paleontology,1
+Espie,Evolutionary Biology,1
+Espie,Ecology,1
+Espie,Biological Responses to Climate Change,1
+Espie,Stress and Disease Biology,100
+Espie,Molecular Visualization,1
+Espie,Visual Representation of Biology/Science,1
+Lange,Neurobiology,100
+Lange,Integrative Physiology,100
+Lange,Cell Biology,100
+Lange,Molecular Biology,100
+Lange,Animal Behaviour,1
+Lange,Plant Biology,1
+Lange,Epigenetics,1
+Lange,Paleontology,1
+Lange,Evolutionary Biology,1
+Lange,Ecology,1
+Lange,Biological Responses to Climate Change,1
+Lange,Stress and Disease Biology,1
+Lange,Molecular Visualization,1
+Lange,Visual Representation of Biology/Science,1
+Liu,Neurobiology,100
+Liu,Integrative Physiology,100
+Liu,Cell Biology,1
+Liu,Molecular Biology,1
+Liu,Animal Behaviour,100
+Liu,Plant Biology,1
+Liu,Epigenetics,1
+Liu,Paleontology,1
+Liu,Evolutionary Biology,1
+Liu,Ecology,1
+Liu,Biological Responses to Climate Change,1
+Liu,Stress and Disease Biology,1
+Liu,Molecular Visualization,1
+Liu,Visual Representation of Biology/Science,1
+Nguyen Ba,Neurobiology,1
+Nguyen Ba,Integrative Physiology,1
+Nguyen Ba,Cell Biology,1
+Nguyen Ba,Molecular Biology,100
+Nguyen Ba,Animal Behaviour,1
+Nguyen Ba,Plant Biology,1
+Nguyen Ba,Epigenetics,1
+Nguyen Ba,Paleontology,1
+Nguyen Ba,Evolutionary Biology,100
+Nguyen Ba,Ecology,1
+Nguyen Ba,Biological Responses to Climate Change,1
+Nguyen Ba,Stress and Disease Biology,1
+Nguyen Ba,Molecular Visualization,1
+Nguyen Ba,Visual Representation of Biology/Science,1
+Resulaj,Neurobiology,100
+Resulaj,Integrative Physiology,100
+Resulaj,Cell Biology,1
+Resulaj,Molecular Biology,1
+Resulaj,Animal Behaviour,100
+Resulaj,Plant Biology,1
+Resulaj,Epigenetics,1
+Resulaj,Paleontology,1
+Resulaj,Evolutionary Biology,1
+Resulaj,Ecology,1
+Resulaj,Biological Responses to Climate Change,1
+Resulaj,Stress and Disease Biology,1
+Resulaj,Molecular Visualization,1
+Resulaj,Visual Representation of Biology/Science,100
+Senatore,Neurobiology,100
+Senatore,Integrative Physiology,100
+Senatore,Cell Biology,100
+Senatore,Molecular Biology,100
+Senatore,Animal Behaviour,100
+Senatore,Plant Biology,1
+Senatore,Epigenetics,1
+Senatore,Paleontology,1
+Senatore,Evolutionary Biology,100
+Senatore,Ecology,1
+Senatore,Biological Responses to Climate Change,1
+Senatore,Stress and Disease Biology,1
+Senatore,Molecular Visualization,1
+Senatore,Visual Representation of Biology/Science,1
+Stewart,Neurobiology,100
+Stewart,Integrative Physiology,100
+Stewart,Cell Biology,100
+Stewart,Molecular Biology,100
+Stewart,Animal Behaviour,1
+Stewart,Plant Biology,1
+Stewart,Epigenetics,1
+Stewart,Paleontology,1
+Stewart,Evolutionary Biology,1
+Stewart,Ecology,1
+Stewart,Biological Responses to Climate Change,1
+Stewart,Stress and Disease Biology,1
+Stewart,Molecular Visualization,1
+Stewart,Visual Representation of Biology/Science,1
+Levine,Neurobiology,100
+Levine,Integrative Physiology,100
+Levine,Cell Biology,1
+Levine,Molecular Biology,100
+Levine,Animal Behaviour,100
+Levine,Plant Biology,1
+Levine,Epigenetics,1
+Levine,Paleontology,1
+Levine,Evolutionary Biology,100
+Levine,Ecology,100
+Levine,Biological Responses to Climate Change,1
+Levine,Stress and Disease Biology,1
+Levine,Molecular Visualization,1
+Levine,Visual Representation of Biology/Science,1
+Ness,Neurobiology,1
+Ness,Integrative Physiology,1
+Ness,Cell Biology,1
+Ness,Molecular Biology,100
+Ness,Animal Behaviour,1
+Ness,Plant Biology,1
+Ness,Epigenetics,1
+Ness,Paleontology,1
+Ness,Evolutionary Biology,100
+Ness,Ecology,1
+Ness,Biological Responses to Climate Change,1
+Ness,Stress and Disease Biology,100
+Ness,Molecular Visualization,1
+Ness,Visual Representation of Biology/Science,1
+D'Aloia,Neurobiology,1
+D'Aloia,Integrative Physiology,1
+D'Aloia,Cell Biology,1
+D'Aloia,Molecular Biology,1
+D'Aloia,Animal Behaviour,1
+D'Aloia,Plant Biology,1
+D'Aloia,Epigenetics,1
+D'Aloia,Paleontology,1
+D'Aloia,Evolutionary Biology,100
+D'Aloia,Ecology,100
+D'Aloia,Biological Responses to Climate Change,100
+D'Aloia,Stress and Disease Biology,1
+D'Aloia,Molecular Visualization,1
+D'Aloia,Visual Representation of Biology/Science,1
+Johnson,Neurobiology,1
+Johnson,Integrative Physiology,1
+Johnson,Cell Biology,1
+Johnson,Molecular Biology,1
+Johnson,Animal Behaviour,1
+Johnson,Plant Biology,1
+Johnson,Epigenetics,1
+Johnson,Paleontology,1
+Johnson,Evolutionary Biology,100
+Johnson,Ecology,100
+Johnson,Biological Responses to Climate Change,1
+Johnson,Stress and Disease Biology,1
+Johnson,Molecular Visualization,1
+Johnson,Visual Representation of Biology/Science,1
+McCauley,Neurobiology,1
+McCauley,Integrative Physiology,1
+McCauley,Cell Biology,1
+McCauley,Molecular Biology,1
+McCauley,Animal Behaviour,100
+McCauley,Plant Biology,1
+McCauley,Epigenetics,1
+McCauley,Paleontology,1
+McCauley,Evolutionary Biology,1
+McCauley,Ecology,100
+McCauley,Biological Responses to Climate Change,100
+McCauley,Stress and Disease Biology,1
+McCauley,Molecular Visualization,1
+McCauley,Visual Representation of Biology/Science,1
+McMeans,Neurobiology,1
+McMeans,Integrative Physiology,1
+McMeans,Cell Biology,1
+McMeans,Molecular Biology,1
+McMeans,Animal Behaviour,100
+McMeans,Plant Biology,1
+McMeans,Epigenetics,1
+McMeans,Paleontology,1
+McMeans,Evolutionary Biology,1
+McMeans,Ecology,100
+McMeans,Biological Responses to Climate Change,100
+McMeans,Stress and Disease Biology,1
+McMeans,Molecular Visualization,1
+McMeans,Visual Representation of Biology/Science,1
+Murray,Neurobiology,1
+Murray,Integrative Physiology,1
+Murray,Cell Biology,1
+Murray,Molecular Biology,1
+Murray,Animal Behaviour,100
+Murray,Plant Biology,1
+Murray,Epigenetics,1
+Murray,Paleontology,1
+Murray,Evolutionary Biology,100
+Murray,Ecology,100
+Murray,Biological Responses to Climate Change,100
+Murray,Stress and Disease Biology,100
+Murray,Molecular Visualization,1
+Murray,Visual Representation of Biology/Science,1
+Ratcliffe,Neurobiology,100
+Ratcliffe,Integrative Physiology,100
+Ratcliffe,Cell Biology,1
+Ratcliffe,Molecular Biology,1
+Ratcliffe,Animal Behaviour,100
+Ratcliffe,Plant Biology,1
+Ratcliffe,Epigenetics,1
+Ratcliffe,Paleontology,1
+Ratcliffe,Evolutionary Biology,100
+Ratcliffe,Ecology,100
+Ratcliffe,Biological Responses to Climate Change,1
+Ratcliffe,Stress and Disease Biology,1
+Ratcliffe,Molecular Visualization,1
+Ratcliffe,Visual Representation of Biology/Science,1
+Reisz,Neurobiology,1
+Reisz,Integrative Physiology,1
+Reisz,Cell Biology,1
+Reisz,Molecular Biology,1
+Reisz,Animal Behaviour,1
+Reisz,Plant Biology,1
+Reisz,Epigenetics,1
+Reisz,Paleontology,100
+Reisz,Evolutionary Biology,100
+Reisz,Ecology,1
+Reisz,Biological Responses to Climate Change,100
+Reisz,Stress and Disease Biology,1
+Reisz,Molecular Visualization,1
+Reisz,Visual Representation of Biology/Science,100
+Short,Neurobiology,1
+Short,Integrative Physiology,1
+Short,Cell Biology,1
+Short,Molecular Biology,100
+Short,Animal Behaviour,1
+Short,Plant Biology,1
+Short,Epigenetics,1
+Short,Paleontology,1
+Short,Evolutionary Biology,1
+Short,Ecology,100
+Short,Biological Responses to Climate Change,1
+Short,Stress and Disease Biology,1
+Short,Molecular Visualization,1
+Short,Visual Representation of Biology/Science,1
+Wagner,Neurobiology,1
+Wagner,Integrative Physiology,1
+Wagner,Cell Biology,1
+Wagner,Molecular Biology,1
+Wagner,Animal Behaviour,1
+Wagner,Plant Biology,1
+Wagner,Epigenetics,1
+Wagner,Paleontology,1
+Wagner,Evolutionary Biology,100
+Wagner,Ecology,100
+Wagner,Biological Responses to Climate Change,100
+Wagner,Stress and Disease Biology,1
+Wagner,Molecular Visualization,1
+Wagner,Visual Representation of Biology/Science,1
+Jenkinson,Neurobiology,1
+Jenkinson,Integrative Physiology,1
+Jenkinson,Cell Biology,1
+Jenkinson,Molecular Biology,1
+Jenkinson,Animal Behaviour,1
+Jenkinson,Plant Biology,1
+Jenkinson,Epigenetics,1
+Jenkinson,Paleontology,1
+Jenkinson,Evolutionary Biology,1
+Jenkinson,Ecology,1
+Jenkinson,Biological Responses to Climate Change,1
+Jenkinson,Stress and Disease Biology,1
+Jenkinson,Molecular Visualization,100
+Jenkinson,Visual Representation of Biology/Science,100
+Ng,Neurobiology,1
+Ng,Integrative Physiology,1
+Ng,Cell Biology,1
+Ng,Molecular Biology,100
+Ng,Animal Behaviour,1
+Ng,Plant Biology,1
+Ng,Epigenetics,1
+Ng,Paleontology,1
+Ng,Evolutionary Biology,1
+Ng,Ecology,1
+Ng,Biological Responses to Climate Change,1
+Ng,Stress and Disease Biology,1
+Ng,Molecular Visualization,100
+Ng,Visual Representation of Biology/Science,100
+Wall,Neurobiology,1
+Wall,Integrative Physiology,1
+Wall,Cell Biology,1
+Wall,Molecular Biology,1
+Wall,Animal Behaviour,1
+Wall,Plant Biology,1
+Wall,Epigenetics,1
+Wall,Paleontology,1
+Wall,Evolutionary Biology,1
+Wall,Ecology,1
+Wall,Biological Responses to Climate Change,1
+Wall,Stress and Disease Biology,1
+Wall,Molecular Visualization,1
+Wall,Visual Representation of Biology/Science,100
+Woolridge,Neurobiology,1
+Woolridge,Integrative Physiology,1
+Woolridge,Cell Biology,1
+Woolridge,Molecular Biology,1
+Woolridge,Animal Behaviour,1
+Woolridge,Plant Biology,1
+Woolridge,Epigenetics,1
+Woolridge,Paleontology,1
+Woolridge,Evolutionary Biology,1
+Woolridge,Ecology,1
+Woolridge,Biological Responses to Climate Change,1
+Woolridge,Stress and Disease Biology,1
+Woolridge,Molecular Visualization,100
+Woolridge,Visual Representation of Biology/Science,100
