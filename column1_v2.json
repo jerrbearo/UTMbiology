@@ -1,0 +1,1012 @@
+{
+  "barcode": [
+  {
+    "name": "Katharina Braeutigam",
+    "category": "Neurobiology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Katharina_Braeutigam.png"
+  },
+  {
+    "name": "Katharina Braeutigam",
+    "category": "Integrative Physiology",
+    "value": 2,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Katharina_Braeutigam.png"
+  },
+  {
+    "name": "Katharina Braeutigam",
+    "category": "Cell Biology",
+    "value": 3,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Katharina_Braeutigam.png"
+  },
+  {
+    "name": "Katharina Braeutigam",
+    "category": "Molecular Biology",
+    "value": 4,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Katharina_Braeutigam.png"
+  },
+  {
+    "name": "Katharina Braeutigam",
+    "category": "Epigenetics",
+    "value": 5,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Katharina_Braeutigam.png"
+  },
+  {
+    "name": "Katharina Braeutigam",
+    "category": "Animal Behaviour",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Katharina_Braeutigam.png"
+  },
+  {
+    "name": "Katharina Braeutigam",
+    "category": "Stress and Disease Biology",
+    "value": 7,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Katharina_Braeutigam.png"
+  },
+  {
+    "name": "Katharina Braeutigam",
+    "category": "Evolutionary Biology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Katharina_Braeutigam.png"
+  },
+  {
+    "name": "Katharina Braeutigam",
+    "category": "Ecology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Katharina_Braeutigam.png"
+  },
+  {
+    "name": "Katharina Braeutigam",
+    "category": "Plant Biology",
+    "value": 10,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Katharina_Braeutigam.png"
+  },
+  {
+    "name": "Katharina Braeutigam",
+    "category": "Biological Responses to Climate Change",
+    "value": 11,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Katharina_Braeutigam.png"
+  },
+  {
+    "name": "Katharina Braeutigam",
+    "category": "Paleontology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Katharina_Braeutigam.png"
+  },
+  {
+    "name": "Katharina Braeutigam",
+    "category": "Visual Representation of Science",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Katharina_Braeutigam.png"
+  },
+  {
+    "name": "Katharina Braeutigam",
+    "category": "Molecular Visualization",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Katharina_Braeutigam.png"
+  },
+  {
+    "name": "Hai-Ying (Mary) Cheng",
+    "category": "Neurobiology",
+    "value": 1,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Mary_Cheng.jpg"
+  },
+  {
+    "name": "Hai-Ying (Mary) Cheng",
+    "category": "Integrative Physiology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Mary_Cheng.jpg"
+  },
+  {
+    "name": "Hai-Ying (Mary) Cheng",
+    "category": "Cell Biology",
+    "value": 3,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Mary_Cheng.jpg"
+  },
+  {
+    "name": "Hai-Ying (Mary) Cheng",
+    "category": "Molecular Biology",
+    "value": 4,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Mary_Cheng.jpg"
+  },
+  {
+    "name": "Hai-Ying (Mary) Cheng",
+    "category": "Epigenetics",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Mary_Cheng.jpg"
+  },
+  {
+    "name": "Hai-Ying (Mary) Cheng",
+    "category": "Animal Behaviour",
+    "value": 6,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Mary_Cheng.jpg"
+  },
+  {
+    "name": "Hai-Ying (Mary) Cheng",
+    "category": "Stress and Disease Biology",
+    "value": 7,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Mary_Cheng.jpg"
+  },
+  {
+    "name": "Hai-Ying (Mary) Cheng",
+    "category": "Evolutionary Biology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Mary_Cheng.jpg"
+  },
+  {
+    "name": "Hai-Ying (Mary) Cheng",
+    "category": "Ecology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Mary_Cheng.jpg"
+  },
+  {
+    "name": "Hai-Ying (Mary) Cheng",
+    "category": "Plant Biology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Mary_Cheng.jpg"
+  },
+  {
+    "name": "Hai-Ying (Mary) Cheng",
+    "category": "Biological Responses to Climate Change",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Mary_Cheng.jpg"
+  },
+  {
+    "name": "Hai-Ying (Mary) Cheng",
+    "category": "Paleontology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Mary_Cheng.jpg"
+  },
+  {
+    "name": "Hai-Ying (Mary) Cheng",
+    "category": "Visual Representation of Science",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Mary_Cheng.jpg"
+  },
+  {
+    "name": "Hai-Ying (Mary) Cheng",
+    "category": "Molecular Visualization",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Mary_Cheng.jpg"
+  },
+  {
+    "name": "Mark Currie",
+    "category": "Neurobiology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Mark_Currie.jpg"
+  },
+  {
+    "name": "Mark Currie",
+    "category": "Integrative Physiology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Mark_Currie.jpg"
+  },
+  {
+    "name": "Mark Currie",
+    "category": "Cell Biology",
+    "value": 3,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Mark_Currie.jpg"
+  },
+  {
+    "name": "Mark Currie",
+    "category": "Molecular Biology",
+    "value": 4,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Mark_Currie.jpg"
+  },
+  {
+    "name": "Mark Currie",
+    "category": "Epigenetics",
+    "value": 5,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Mark_Currie.jpg"
+  },
+  {
+    "name": "Mark Currie",
+    "category": "Animal Behaviour",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Mark_Currie.jpg"
+  },
+  {
+    "name": "Mark Currie",
+    "category": "Stress and Disease Biology",
+    "value": 7,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Mark_Currie.jpg"
+  },
+  {
+    "name": "Mark Currie",
+    "category": "Evolutionary Biology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Mark_Currie.jpg"
+  },
+  {
+    "name": "Mark Currie",
+    "category": "Ecology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Mark_Currie.jpg"
+  },
+  {
+    "name": "Mark Currie",
+    "category": "Plant Biology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Mark_Currie.jpg"
+  },
+  {
+    "name": "Mark Currie",
+    "category": "Biological Responses to Climate Change",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Mark_Currie.jpg"
+  },
+  {
+    "name": "Mark Currie",
+    "category": "Paleontology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Mark_Currie.jpg"
+  },
+  {
+    "name": "Mark Currie",
+    "category": "Visual Representation of Science",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Mark_Currie.jpg"
+  },
+  {
+    "name": "Mark Currie",
+    "category": "Molecular Visualization",
+    "value": 14,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Mark_Currie.jpg"
+  },
+  {
+    "name": "Cassidy D'Aloia",
+    "category": "Neurobiology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Cassidy_DAloia.jpg"
+  },
+  {
+    "name": "Cassidy D'Aloia",
+    "category": "Integrative Physiology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Cassidy_DAloia.jpg"
+  },
+  {
+    "name": "Cassidy D'Aloia",
+    "category": "Cell Biology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Cassidy_DAloia.jpg"
+  },
+  {
+    "name": "Cassidy D'Aloia",
+    "category": "Molecular Biology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Cassidy_DAloia.jpg"
+  },
+  {
+    "name": "Cassidy D'Aloia",
+    "category": "Epigenetics",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Cassidy_DAloia.jpg"
+  },
+  {
+    "name": "Cassidy D'Aloia",
+    "category": "Animal Behaviour",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Cassidy_DAloia.jpg"
+  },
+  {
+    "name": "Cassidy D'Aloia",
+    "category": "Stress and Disease Biology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Cassidy_DAloia.jpg"
+  },
+  {
+    "name": "Cassidy D'Aloia",
+    "category": "Evolutionary Biology",
+    "value": 8,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Cassidy_DAloia.jpg"
+  },
+  {
+    "name": "Cassidy D'Aloia",
+    "category": "Ecology",
+    "value": 9,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Cassidy_DAloia.jpg"
+  },
+  {
+    "name": "Cassidy D'Aloia",
+    "category": "Plant Biology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Cassidy_DAloia.jpg"
+  },
+  {
+    "name": "Cassidy D'Aloia",
+    "category": "Biological Responses to Climate Change",
+    "value": 11,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Cassidy_DAloia.jpg"
+  },
+  {
+    "name": "Cassidy D'Aloia",
+    "category": "Paleontology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Cassidy_DAloia.jpg"
+  },
+  {
+    "name": "Cassidy D'Aloia",
+    "category": "Visual Representation of Science",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Cassidy_DAloia.jpg"
+  },
+  {
+    "name": "Cassidy D'Aloia",
+    "category": "Molecular Visualization",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Cassidy_DAloia.jpg"
+  },
+  {
+    "name": "Marcus Dillon",
+    "category": "Neurobiology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Marcus_Dillon.jpg"
+  },
+  {
+    "name": "Marcus Dillon",
+    "category": "Integrative Physiology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Marcus_Dillon.jpg"
+  },
+  {
+    "name": "Marcus Dillon",
+    "category": "Cell Biology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Marcus_Dillon.jpg"
+  },
+  {
+    "name": "Marcus Dillon",
+    "category": "Molecular Biology",
+    "value": 4,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Marcus_Dillon.jpg"
+  },
+  {
+    "name": "Marcus Dillon",
+    "category": "Epigenetics",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Marcus_Dillon.jpg"
+  },
+  {
+    "name": "Marcus Dillon",
+    "category": "Animal Behaviour",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Marcus_Dillon.jpg"
+  },
+  {
+    "name": "Marcus Dillon",
+    "category": "Stress and Disease Biology",
+    "value": 7,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Marcus_Dillon.jpg"
+  },
+  {
+    "name": "Marcus Dillon",
+    "category": "Evolutionary Biology",
+    "value": 8,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Marcus_Dillon.jpg"
+  },
+  {
+    "name": "Marcus Dillon",
+    "category": "Ecology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Marcus_Dillon.jpg"
+  },
+  {
+    "name": "Marcus Dillon",
+    "category": "Plant Biology",
+    "value": 10,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Marcus_Dillon.jpg"
+  },
+  {
+    "name": "Marcus Dillon",
+    "category": "Biological Responses to Climate Change",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Marcus_Dillon.jpg"
+  },
+  {
+    "name": "Marcus Dillon",
+    "category": "Paleontology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Marcus_Dillon.jpg"
+  },
+  {
+    "name": "Marcus Dillon",
+    "category": "Visual Representation of Science",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Marcus_Dillon.jpg"
+  },
+  {
+    "name": "Marcus Dillon",
+    "category": "Molecular Visualization",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Marcus_Dillon.jpg"
+  },
+  {
+    "name": "Ingo Ensminger",
+    "category": "Neurobiology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Ingo_Ensminger.jpg"
+  },
+  {
+    "name": "Ingo Ensminger",
+    "category": "Integrative Physiology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Ingo_Ensminger.jpg"
+  },
+  {
+    "name": "Ingo Ensminger",
+    "category": "Cell Biology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Ingo_Ensminger.jpg"
+  },
+  {
+    "name": "Ingo Ensminger",
+    "category": "Molecular Biology",
+    "value": 4,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Ingo_Ensminger.jpg"
+  },
+  {
+    "name": "Ingo Ensminger",
+    "category": "Epigenetics",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Ingo_Ensminger.jpg"
+  },
+  {
+    "name": "Ingo Ensminger",
+    "category": "Animal Behaviour",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Ingo_Ensminger.jpg"
+  },
+  {
+    "name": "Ingo Ensminger",
+    "category": "Stress and Disease Biology",
+    "value": 7,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Ingo_Ensminger.jpg"
+  },
+  {
+    "name": "Ingo Ensminger",
+    "category": "Evolutionary Biology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Ingo_Ensminger.jpg"
+  },
+  {
+    "name": "Ingo Ensminger",
+    "category": "Ecology",
+    "value": 9,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Ingo_Ensminger.jpg"
+  },
+  {
+    "name": "Ingo Ensminger",
+    "category": "Plant Biology",
+    "value": 10,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Ingo_Ensminger.jpg"
+  },
+  {
+    "name": "Ingo Ensminger",
+    "category": "Biological Responses to Climate Change",
+    "value": 11,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Ingo_Ensminger.jpg"
+  },
+  {
+    "name": "Ingo Ensminger",
+    "category": "Paleontology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Ingo_Ensminger.jpg"
+  },
+  {
+    "name": "Ingo Ensminger",
+    "category": "Visual Representation of Science",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Ingo_Ensminger.jpg"
+  },
+  {
+    "name": "Ingo Ensminger",
+    "category": "Molecular Visualization",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Ingo_Ensminger.jpg"
+  },
+  {
+    "name": "Ted Erclik",
+    "category": "Neurobiology",
+    "value": 1,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Ted_Erclik.jpg"
+  },
+  {
+    "name": "Ted Erclik",
+    "category": "Integrative Physiology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Ted_Erclik.jpg"
+  },
+  {
+    "name": "Ted Erclik",
+    "category": "Cell Biology",
+    "value": 3,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Ted_Erclik.jpg"
+  },
+  {
+    "name": "Ted Erclik",
+    "category": "Molecular Biology",
+    "value": 4,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Ted_Erclik.jpg"
+  },
+  {
+    "name": "Ted Erclik",
+    "category": "Epigenetics",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Ted_Erclik.jpg"
+  },
+  {
+    "name": "Ted Erclik",
+    "category": "Animal Behaviour",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Ted_Erclik.jpg"
+  },
+  {
+    "name": "Ted Erclik",
+    "category": "Stress and Disease Biology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Ted_Erclik.jpg"
+  },
+  {
+    "name": "Ted Erclik",
+    "category": "Evolutionary Biology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Ted_Erclik.jpg"
+  },
+  {
+    "name": "Ted Erclik",
+    "category": "Ecology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Ted_Erclik.jpg"
+  },
+  {
+    "name": "Ted Erclik",
+    "category": "Plant Biology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Ted_Erclik.jpg"
+  },
+  {
+    "name": "Ted Erclik",
+    "category": "Biological Responses to Climate Change",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Ted_Erclik.jpg"
+  },
+  {
+    "name": "Ted Erclik",
+    "category": "Paleontology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Ted_Erclik.jpg"
+  },
+  {
+    "name": "Ted Erclik",
+    "category": "Visual Representation of Science",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Ted_Erclik.jpg"
+  },
+  {
+    "name": "Ted Erclik",
+    "category": "Molecular Visualization",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Ted_Erclik.jpg"
+  },
+  {
+    "name": "George Espie",
+    "category": "Neurobiology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/George_Espie.jpg"
+  },
+  {
+    "name": "George Espie",
+    "category": "Integrative Physiology",
+    "value": 2,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/George_Espie.jpg"
+  },
+  {
+    "name": "George Espie",
+    "category": "Cell Biology",
+    "value": 3,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/George_Espie.jpg"
+  },
+  {
+    "name": "George Espie",
+    "category": "Molecular Biology",
+    "value": 4,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/George_Espie.jpg"
+  },
+  {
+    "name": "George Espie",
+    "category": "Epigenetics",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/George_Espie.jpg"
+  },
+  {
+    "name": "George Espie",
+    "category": "Animal Behaviour",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/George_Espie.jpg"
+  },
+  {
+    "name": "George Espie",
+    "category": "Stress and Disease Biology",
+    "value": 7,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/George_Espie.jpg"
+  },
+  {
+    "name": "George Espie",
+    "category": "Evolutionary Biology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/George_Espie.jpg"
+  },
+  {
+    "name": "George Espie",
+    "category": "Ecology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/George_Espie.jpg"
+  },
+  {
+    "name": "George Espie",
+    "category": "Plant Biology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/George_Espie.jpg"
+  },
+  {
+    "name": "George Espie",
+    "category": "Biological Responses to Climate Change",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/George_Espie.jpg"
+  },
+  {
+    "name": "George Espie",
+    "category": "Paleontology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/George_Espie.jpg"
+  },
+  {
+    "name": "George Espie",
+    "category": "Visual Representation of Science",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/George_Espie.jpg"
+  },
+  {
+    "name": "George Espie",
+    "category": "Molecular Visualization",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/George_Espie.jpg"
+  },
+  {
+    "name": "Jodie Jenkinson",
+    "category": "Neurobiology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Jodie_Jenkinson.jpg"
+  },
+  {
+    "name": "Jodie Jenkinson",
+    "category": "Integrative Physiology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Jodie_Jenkinson.jpg"
+  },
+  {
+    "name": "Jodie Jenkinson",
+    "category": "Cell Biology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Jodie_Jenkinson.jpg"
+  },
+  {
+    "name": "Jodie Jenkinson",
+    "category": "Molecular Biology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Jodie_Jenkinson.jpg"
+  },
+  {
+    "name": "Jodie Jenkinson",
+    "category": "Epigenetics",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Jodie_Jenkinson.jpg"
+  },
+  {
+    "name": "Jodie Jenkinson",
+    "category": "Animal Behaviour",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Jodie_Jenkinson.jpg"
+  },
+  {
+    "name": "Jodie Jenkinson",
+    "category": "Stress and Disease Biology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Jodie_Jenkinson.jpg"
+  },
+  {
+    "name": "Jodie Jenkinson",
+    "category": "Evolutionary Biology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Jodie_Jenkinson.jpg"
+  },
+  {
+    "name": "Jodie Jenkinson",
+    "category": "Ecology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Jodie_Jenkinson.jpg"
+  },
+  {
+    "name": "Jodie Jenkinson",
+    "category": "Plant Biology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Jodie_Jenkinson.jpg"
+  },
+  {
+    "name": "Jodie Jenkinson",
+    "category": "Biological Responses to Climate Change",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Jodie_Jenkinson.jpg"
+  },
+  {
+    "name": "Jodie Jenkinson",
+    "category": "Paleontology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Jodie_Jenkinson.jpg"
+  },
+  {
+    "name": "Jodie Jenkinson",
+    "category": "Visual Representation of Science",
+    "value": 13,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Jodie_Jenkinson.jpg"
+  },
+  {
+    "name": "Jodie Jenkinson",
+    "category": "Molecular Visualization",
+    "value": 14,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Jodie_Jenkinson.jpg"
+  },
+  {
+    "name": "Marc Johnson",
+    "category": "Neurobiology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Marc_Johnson.jpg"
+  },
+  {
+    "name": "Marc Johnson",
+    "category": "Integrative Physiology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Marc_Johnson.jpg"
+  },
+  {
+    "name": "Marc Johnson",
+    "category": "Cell Biology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Marc_Johnson.jpg"
+  },
+  {
+    "name": "Marc Johnson",
+    "category": "Molecular Biology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Marc_Johnson.jpg"
+  },
+  {
+    "name": "Marc Johnson",
+    "category": "Epigenetics",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Marc_Johnson.jpg"
+  },
+  {
+    "name": "Marc Johnson",
+    "category": "Animal Behaviour",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Marc_Johnson.jpg"
+  },
+  {
+    "name": "Marc Johnson",
+    "category": "Stress and Disease Biology",
+    "value": 7,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Marc_Johnson.jpg"
+  },
+  {
+    "name": "Marc Johnson",
+    "category": "Evolutionary Biology",
+    "value": 8,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Marc_Johnson.jpg"
+  },
+  {
+    "name": "Marc Johnson",
+    "category": "Ecology",
+    "value": 9,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Marc_Johnson.jpg"
+  },
+  {
+    "name": "Marc Johnson",
+    "category": "Plant Biology",
+    "value": 10,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Marc_Johnson.jpg"
+  },
+  {
+    "name": "Marc Johnson",
+    "category": "Biological Responses to Climate Change",
+    "value": 11,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Marc_Johnson.jpg"
+  },
+  {
+    "name": "Marc Johnson",
+    "category": "Paleontology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Marc_Johnson.jpg"
+  },
+  {
+    "name": "Marc Johnson",
+    "category": "Visual Representation of Science",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Marc_Johnson.jpg"
+  },
+  {
+    "name": "Marc Johnson",
+    "category": "Molecular Visualization",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Marc_Johnson.jpg"
+  },
+  {
+    "name": "Peter M. Kotanen",
+    "category": "Neurobiology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Peter_Kotanen.jpg"
+  },
+  {
+    "name": "Peter M. Kotanen",
+    "category": "Integrative Physiology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Peter_Kotanen.jpg"
+  },
+  {
+    "name": "Peter M. Kotanen",
+    "category": "Cell Biology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Peter_Kotanen.jpg"
+  },
+  {
+    "name": "Peter M. Kotanen",
+    "category": "Molecular Biology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Peter_Kotanen.jpg"
+  },
+  {
+    "name": "Peter M. Kotanen",
+    "category": "Epigenetics",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Peter_Kotanen.jpg"
+  },
+  {
+    "name": "Peter M. Kotanen",
+    "category": "Animal Behaviour",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Peter_Kotanen.jpg"
+  },
+  {
+    "name": "Peter M. Kotanen",
+    "category": "Stress and Disease Biology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Peter_Kotanen.jpg"
+  },
+  {
+    "name": "Peter M. Kotanen",
+    "category": "Evolutionary Biology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Peter_Kotanen.jpg"
+  },
+  {
+    "name": "Peter M. Kotanen",
+    "category": "Ecology",
+    "value": 9,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Peter_Kotanen.jpg"
+  },
+  {
+    "name": "Peter M. Kotanen",
+    "category": "Plant Biology",
+    "value": 10,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Peter_Kotanen.jpg"
+  },
+  {
+    "name": "Peter M. Kotanen",
+    "category": "Biological Responses to Climate Change",
+    "value": 11,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Peter_Kotanen.jpg"
+  },
+  {
+    "name": "Peter M. Kotanen",
+    "category": "Paleontology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Peter_Kotanen.jpg"
+  },
+  {
+    "name": "Peter M. Kotanen",
+    "category": "Visual Representation of Science",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Peter_Kotanen.jpg"
+  },
+  {
+    "name": "Peter M. Kotanen",
+    "category": "Molecular Visualization",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Peter_Kotanen.jpg"
+  },
+  {
+    "name": "Angela B. Lange",
+    "category": "Neurobiology",
+    "value": 1,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Angela_Lange.jpg"
+  },
+  {
+    "name": "Angela B. Lange",
+    "category": "Integrative Physiology",
+    "value": 2,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Angela_Lange.jpg"
+  },
+  {
+    "name": "Angela B. Lange",
+    "category": "Cell Biology",
+    "value": 3,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Angela_Lange.jpg"
+  },
+  {
+    "name": "Angela B. Lange",
+    "category": "Molecular Biology",
+    "value": 4,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Angela_Lange.jpg"
+  },
+  {
+    "name": "Angela B. Lange",
+    "category": "Epigenetics",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Angela_Lange.jpg"
+  },
+  {
+    "name": "Angela B. Lange",
+    "category": "Animal Behaviour",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Angela_Lange.jpg"
+  },
+  {
+    "name": "Angela B. Lange",
+    "category": "Stress and Disease Biology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Angela_Lange.jpg"
+  },
+  {
+    "name": "Angela B. Lange",
+    "category": "Evolutionary Biology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Angela_Lange.jpg"
+  },
+  {
+    "name": "Angela B. Lange",
+    "category": "Ecology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Angela_Lange.jpg"
+  },
+  {
+    "name": "Angela B. Lange",
+    "category": "Plant Biology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Angela_Lange.jpg"
+  },
+  {
+    "name": "Angela B. Lange",
+    "category": "Biological Responses to Climate Change",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Angela_Lange.jpg"
+  },
+  {
+    "name": "Angela B. Lange",
+    "category": "Paleontology",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Angela_Lange.jpg"
+  },
+  {
+    "name": "Angela B. Lange",
+    "category": "Visual Representation of Science",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Angela_Lange.jpg"
+  },
+  {
+    "name": "Angela B. Lange",
+    "category": "Molecular Visualization",
+    "value": 0,
+    "image": "https://raw.githubusercontent.com/kzhang98/utmbio/main/Angela_Lange.jpg"
+  }
+  ]
+}
